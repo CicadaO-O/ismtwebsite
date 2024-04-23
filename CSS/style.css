@@ -13,9 +13,15 @@
     align-items: center;
 }
 
+.marquee{
+    padding: 4px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+}
 .icon {
     width: 230px;
-    height: 40px;
+  
     float: left;
     height: 80px;
 }
@@ -110,4 +116,14 @@ ul li a:hover{
 
 .srch:focus{
     outline: none;
+}
+.image{
+    width: 100%;
+    height: 80px;
+    
+}
+.img{
+    width: 100%;
+    padding:4px 5px ;
+    height: 700px;
 }
